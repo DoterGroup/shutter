@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'Seravek';
+    src: url('../font/seravek-light-webfont.woff') format('woff'),
+    		url('../font/seravek-light-webfont.ttf') format('truetype'),
+    		url('../font/seravek-light-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Seravekbold';
+    src: url('../font/seravek-bold-webfont.woff') format('woff'),
+    		url('../font/seravek-bold-webfont.ttf') format('truetype'),
+    		url('../font/seravek-bold-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
